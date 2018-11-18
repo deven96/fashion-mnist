@@ -28,7 +28,7 @@ Choose the latest versions of any of the dependencies below:
 * [matplotlib](https://matplotlib.org/)
 * [sklearn](http://scikit-learn.org/stable/)
 * [keras](https://keras.io/)
-* [tensorflor](https://www.tensorflow.org/)
+* [tensorflow](https://www.tensorflow.org/)
 
 ## License
 
